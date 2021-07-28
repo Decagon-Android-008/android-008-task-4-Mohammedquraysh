@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="Home"
+        android:icon="@mipmap/home_icon"
+        android:id="@+id/firstFragment"/>
+    <item
+        android:icon="@drawable/person_image"
+        android:title="people"
+        android:id="@+id/secondFragment"/>
+
+    <item
+        android:title="gift"
+        android:icon="@drawable/gift_box"
+        android:id="@+id/thirdFragment"/>
+
+
+</menu>
